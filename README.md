@@ -1,7 +1,7 @@
 ## :question: Informação
 
-Este projeto se refere ao backend da aplicação Gympoint que foi desenvolvida durante o Bootcamp GoStack da [RocketSeat](https://https://rocketseat.com.br/) e é a primeira parte do desafio final.
-O repositório original do projeto pode ser encontrado [aqui](https://github.com/rafael399/RocketSeat/tree/master/Gympoint)
+Este projeto se refere ao frontend web da aplicação Gympoint que foi desenvolvida durante o Bootcamp GoStack da [RocketSeat](https://https://rocketseat.com.br/) e é a segunda parte do desafio final.
+O repositório original do projeto pode ser encontrado [aqui](https://github.com/rafael399/RocketSeat/tree/master/gympoint-web)
 
 ## :computer: Instalação e execução
 Antes de executar este projeto, inicie o backend gympoint, que pode ser encontrado [aqui](https://github.com/rafael399/Gympoint)
